@@ -10,6 +10,7 @@ Here is the list of open-source projects made by students during this course:
 - [saperlipobot-discord-bot](https://github.com/phothinh/saperlipobot) (Henri PHOTHINANTHA)
 - [arvy-iframe](https://github.com/MaxandreN/arvy-iframe) (Maxandre Neveux)
 - [friendly-matrix](https://github.com/Antholife/friendly-matrix) (Anthony CHAHAT)
+- [easy-navbar](https://github.com/RaphBdt/easy-navbar) (Raphaël Beaudet)
 
 ## Contributing
 
