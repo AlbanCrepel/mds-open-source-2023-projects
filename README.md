@@ -12,6 +12,7 @@ Here is the list of open-source projects made by students during this course:
 - [friendly-matrix](https://github.com/Antholife/friendly-matrix) (Anthony CHAHAT)
 - [easy-navbar](https://github.com/RaphBdt/easy-navbar) (Raphaël Beaudet)
 - [animated-card](https://github.com/humblots/animated-card) (Stéphane Humblot)
+- [jokes_it](https://github.com/aurelienserre01/jokes_it) (Aurélien SERRE)
 
 ## Contributing
 
