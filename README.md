@@ -4,7 +4,9 @@
 
 Here is the list of open-source projects made by students during this course:
 
-- https://github.com/Benji22ben/sapecomponentlibrary
+- [sapecomponentlibrary](https://github.com/Benji22ben/sapecomponentlibrary) (Benjamin MARQUES BALULA)
+- [cool-visual-components](https://github.com/Keyto-Shouko/cool-visual-components) (Bruno Alves Carvalho)
+- [create-discord-typescript](https://github.com/PoulpY2K/create-discord-typescript) (Jérémy Laurent)
 
 ## Contributing
 
