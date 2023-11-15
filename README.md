@@ -8,6 +8,7 @@ Here is the list of open-source projects made by students during this course:
 - [cool-visual-components](https://github.com/Keyto-Shouko/cool-visual-components) (Bruno Alves Carvalho)
 - [create-discord-typescript](https://github.com/PoulpY2K/create-discord-typescript) (Jérémy Laurent)
 - [create-discord-typescript](https://github.com/MaxandreN/arvy-iframe) (Maxandre Neveux)
+- [saperlipobot-discord-bot](https://github.com/phothinh/saperlipobot) (Henri PHOTHINANTHA)
 
 ## Contributing
 
